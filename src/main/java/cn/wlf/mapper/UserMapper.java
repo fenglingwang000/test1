@@ -8,6 +8,7 @@ import java.util.List;
 
 @Mapper
 public interface UserMapper {
+    //第一次修改
 
     /**
      *查询成绩
